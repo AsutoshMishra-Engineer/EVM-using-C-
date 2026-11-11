@@ -1,6 +1,8 @@
 # Electronic Voting Machine (EVM) Simulation in C
 
-A console-based Electronic Voting Machine (EVM) simulation written in **C99** using only the C Standard Library. Built as a 2nd-semester C programming project demonstrating structures, arrays, functions, input validation, and binary file handling with persistence.
+A console-based Electronic Voting Machine (EVM) simulation written in **C99** using only the C Standard Library. Built as a 3rd-semester C programming project demonstrating structures, arrays, functions, input validation, and binary file handling with persistence.
+
+**Project by:** Asutosh Mishra, Engineer
 
 ## Features
 
