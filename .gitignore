@@ -1,0 +1,10 @@
+# Compiled executables and object files
+*.exe
+*.o
+*.out
+evm
+
+# Runtime EVM data and backup files
+*.dat
+*.dat.tmp
+*.dat.bak
